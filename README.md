@@ -43,6 +43,9 @@ Hi, I'm [Muhammad Rikzan](https://instagram.com/rikzanx/), a Full Stack Develope
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 🚧 **My Todoist Stats:**

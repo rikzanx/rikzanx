@@ -44,10 +44,7 @@ Hi, I'm [Muhammad Rikzan](https://instagram.com/rikzanx/), a Full Stack Develope
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-C#               1 hr 48 mins    ██████████████████▓░░░░░░   74.38 % 
-CSS              16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Blade Template   15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-HTML             4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 

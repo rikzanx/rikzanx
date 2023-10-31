@@ -18,7 +18,7 @@
 
 Hi, I'm [Muhammad Rikzan](https://instagram.com/rikzanx/), a Full Stack Developer 🚀 from Indonesia, currently, I'm a Web Programmer at 🙍🏽‍♂️ [@Peduly](https://peduly.com/) Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/rikzanx/rikzanx/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/rikzanx/rikzanx/blob/master/code.gif?raw=true" width="300" height="320" />
   
 **Talking about Personal Stuffs:**
 
